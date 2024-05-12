@@ -1,0 +1,1 @@
+SELECT * FROM sregistro_operaciones WHERE regi_accion = 'NICOLE' LIMIT 10;
